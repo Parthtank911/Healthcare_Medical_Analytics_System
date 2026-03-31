@@ -1,0 +1,2 @@
+PatientID,Age,Gender,BloodPressure,Cholesterol,HeartRate,SmokingStatus,Diabetes,BMI,PhysicalActivity,FamilyHistory,Medication,StressLevel,BloodSugar
+0,34,0,120,215,75,0,0,25.0,4,0,0,0,200
