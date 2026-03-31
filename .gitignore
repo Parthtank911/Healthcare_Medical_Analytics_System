@@ -25,3 +25,6 @@ Thumbs.db
 
 # 🔹 Streamlit secrets (important)
 .streamlit/secrets.toml
+
+# 🔹 temp files 
+temp/
